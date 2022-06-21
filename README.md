@@ -4,4 +4,5 @@ First Project
 2. Added folder images 
 3. Linked .html files to index.html
 4. Finished structuring all .html files
-5. Project is done 
+5. Added return features
+6. Project is done 
