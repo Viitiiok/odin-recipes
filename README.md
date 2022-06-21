@@ -2,6 +2,6 @@
 First Project
 1. Added .html files to the Project
 2. Added folder images 
-3. Linked .html from index.html
+3. Linked .html files to index.html
 4. Finished structuring all .html files
 5. Project is done 
